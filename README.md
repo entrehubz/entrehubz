@@ -1,1 +1,1 @@
-https://aruncpacp123.github.io/entrehubz
+https://entrehubz.github.io
