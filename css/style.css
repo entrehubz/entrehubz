@@ -165,6 +165,13 @@
     }
 }
 
+@media (min-width: 800px) {  
+
+    .homevideo{
+        display: none;
+    }
+}
+
 
 /*** Header carousel ***/
 @media (max-width: 768px) {
