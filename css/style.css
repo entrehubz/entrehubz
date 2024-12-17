@@ -160,6 +160,9 @@
         margin-left: 50px !important;
         margin-right:50px !important;
     }
+    .homevideo{
+        display: none;
+    }
 }
 
 
@@ -180,6 +183,15 @@
         margin-left: 0px !important;
         margin-right:0px !important;
     }
+    .carouselimage{
+        /* aspect-ratio: 3/3; */
+        /* max-width: 100%; */
+    }
+
+    .homevideo{
+        display: block;
+    }
+    
     
 }
 
